@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>WeirdKinetics-300</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body>
+  <nav class="teal darken-3" role="navigation">
+    <div class="nav-wrapper container">
+      <ul class="right hide-on-med-and-down">
+        <li><a href="https://github.com/timothydhhan/weirdkinetics300">Github</a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="sidenav">
+        <li><a href="https://github.com/timothydhhan/weirdkinetics300">Github</a></li>
+      </ul>
+      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    </div>
+  </nav>
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h3 class="header center teal-text">Study of Background Bias in Kinetics-400 Video Action Dataset</h3>
+      <div class="row center">
+        <h5 class="header col s12 light">Timothy Han</h5>
+      </div>
+      <div class="row center">
+        <div class="col s12 center">
+          <a href="files/paper.pdf" id="download-button"
+          class="btn-large waves-effect waves-light teal darken-3">Paper</a>
+        &nbsp;&nbsp;&nbsp;
+            <a href="files/latex.zip" id="download-button"
+            class="btn-large waves-effect waves-light teal darken-3">LaTex source</a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://drive.google.com/drive/u/0/folders/1PCX_31HoiowlSZOD9sP1MckbCUuWZb5T" id="download-button"
+          class="btn-large waves-effect waves-light teal darken-3">WeirdKinetics-300</a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/timothydhhan/weirdkinetics300/blob/main/code/main.ipynb" id="download-button"
+        class="btn-large waves-effect waves-light teal darken-3">Code</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container">
+    <div class="section">
+
+      <div class="row">
+        <div class="col s12 l10 push-l1 xl8 push-xl2">
+          <img class="materialboxed" width="100%" src="media/teaser.png">
+        </div>
+      </div>
+
+    </div>
+    <div class="divider"></div>
+    <div class="section">
+      <h5 class="header center">Abstract</h5>
+
+        <div class="row">
+          <div class="col s12 l10 push-l1 xl8 push-xl2">
+            <p style="text-align: justify;">
+            Artificial intelligence (A.I.) is helping various parts of human lives.
+            Video action recognition, a field in A.I., is a task of detecting human action given a video.
+            While current state-of-the-art methods show promising results in video action recognition tasks,
+            it is widely believed that many machine learning models rely heavily on the background scene, rather than looking at the human body,
+            to detect the action from a video.
+            While such problem is believed, there has not been a good method to study the problem,
+            as there lacks video dataset where actions were performed under irrelevant backgrounds.
+            To solve this issue, we collected a variety of data,
+            ones depicting an action done in a relevant background,
+            and others in an incorrect, "weird" background.
+            With this dataset, we show that the A.I. relies on a data's background to determine human action,
+            instead of looking at the action itself.
+            </p>
+          </div>
+        </div>
+    </div>
+    <div class="divider"></div>
+
+    <div class="section">
+      <h5 class="header center">Sample Video</h5>
+
+      <div class="row">
+        <div class="col s12 l5 push-l1 xl4 push-xl2">
+          <video id="video" width="100%" height="42.86%" controls autoplay loop>
+            <source id="source" src="./media/Reading f7.mp4" type="video/mp4">
+          </video>
+          <pre>Reading</pre>
+        </div>
+          <div class="col s12 l5 push-l1 xl4 push-xl2">
+            <video id="video" width="100%" height="42.86%" controls autoplay loop>
+              <source id="source" src="./media/Tennis 1.mp4" type="video/mp4">
+            </video>
+            <pre>Playing Tennis</pre>
+          </div>
+      </div>
+
+    </div>
+    <div class="divider"></div>
+
+
+
+
+    <br>
+  </div>
+
+  <footer class="page-footer teal">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Contact</h5>
+          <p class="grey-text text-lighten-4">
+            Please Email Timothy Han (<a href = "mailto: danny24623@gmail.com" style="color:#a6d9fc;">danny24623@gmail.com</a>) for any questions.
+          </p>
+
+
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+        <a href="https://github.com/timothydhhan/weirdkinetics300/blob/main/LICENSE" style="color:white">LICENSE</a>
+      </div>
+    </div>
+  </footer>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+
+  </body>
+</html>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.materialboxed');
+    var instances = M.Materialbox.init(elems, {});
+  });
+
+  // Or with jQuery
+
+  $(document).ready(function(){
+    $('.materialboxed').materialbox();
+  });
+</script>

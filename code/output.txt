@@ -1,0 +1,343 @@
+Basketball 12                           playing basketball
+Jogging f18                             playing basketball
+Shaving 8                               trimming or shaving beard
+Basketball 4                            playing basketball
+Cake eating f13                         jogging
+Flipping pancake f6                     flipping pancake
+Push up 15                              push up
+Shaving 14                              brushing teeth
+Flipping pancake 7                      flipping pancake
+Cake eating 12                          reading book
+Reading f4                              reading book
+Computer f13                            reading book
+Push up f3                              push up
+Flipping pancake f15                    flipping pancake
+Jogging f12                             playing basketball
+Push up 10                              push up
+Tooth brushing f12                      jogging
+Computer 1                              using computer
+Push up 3                               push up
+Jogging f19                             playing basketball
+Reading f3                              reading book
+Basketball 8                            playing basketball
+Push up 16                              push up
+Shaving f1                              reading book
+Shaving 6                               trimming or shaving beard
+Flipping pancake 14                     flipping pancake
+Reading f23(1)                          reading book
+Cake eating f8                          eating cake
+Reading f24                             reading book
+Tooth brushing f4                       brushing teeth
+Basketball f3                           playing basketball
+Cake eating f11                         reading book
+Shaving f12                             using computer
+Basketball 14                           playing basketball
+Basketball 5                            playing basketball
+Basketball 7                            playing basketball
+Tennis 13                               playing tennis
+Tooth brushing 3                        trimming or shaving beard
+Tooth brushing 12                       trimming or shaving beard
+Tennis 2                                playing tennis
+Computer 16                             using computer
+Tooth brushing f16                      playing tennis
+Push up f16                             push up
+Cake eating 17                          eating cake
+Push up 5                               push up
+Basketball 11                           playing basketball
+Tooth brushing 10                       brushing teeth
+Reading f13                             jogging
+Reading 10                              reading book
+Flipping pancake f1                     flipping pancake
+Shaving f9                              reading book
+Computer f8                             reading book
+Cake eating 1                           eating cake
+Computer 2                              reading book
+Tennis f3                               push up
+Computer f7                             reading book
+Shaving f3                              reading book
+Tooth brushing f2                       brushing teeth
+Flipping pancake 1                      flipping pancake
+Reading f1                              playing basketball
+Tennis f12                              playing tennis
+Tennis f5                               playing tennis
+Shaving f8                              reading book
+Flipping pancake f13                    playing tennis
+Push up 12                              push up
+Tennis f10                              jogging
+Push up f9                              push up
+Reading f2                              reading book
+Jogging f10                             flipping pancake
+Tooth brushing f9                       brushing teeth
+Jogging f16                             playing basketball
+Computer f18                            reading book
+Flipping pancake f14                    flipping pancake
+Tennis 17                               playing tennis
+Basketball f2                           playing basketball
+Cake eating f1                          eating cake
+Reading 3                               reading book
+Basketball f9                           playing basketball
+Tooth brushing f15                      reading book
+Computer f15                            trimming or shaving beard
+Computer 13                             using computer
+Cake eating f15                         brushing teeth
+Flipping pancake f8                     flipping pancake
+Shaving 5                               trimming or shaving beard
+Reading f22                             reading book
+Jogging 14                              jogging
+Shaving f13                             reading book
+Reading 5                               reading book
+Reading f6                              jogging
+Push up 9                               push up
+Tennis f8                               playing tennis
+Tooth brushing f8                       trimming or shaving beard
+Computer f9                             reading book
+Reading f11                             trimming or shaving beard
+Shaving f4                              flipping pancake
+Cake eating 8                           using computer
+Cake eating f6                          brushing teeth
+Basketball 3                            playing basketball
+Push up 1                               push up
+Push up f15                             push up
+Jogging f1                              trimming or shaving beard
+Push up 2                               push up
+Tennis 6                                playing tennis
+Reading 2                               reading book
+Computer 12                             using computer
+Cake eating 14                          using computer
+Basketball f1                           playing basketball
+Tooth brushing f3                       brushing teeth
+Jogging f11                             jogging
+Shaving f11                             brushing teeth
+Basketball f4                           playing basketball
+Tooth brushing f6                       brushing teeth
+Shaving f10                             reading book
+Tooth brushing 9                        brushing teeth
+Tooth brushing f10                      trimming or shaving beard
+Computer 3                              using computer
+Shaving f7                              reading book
+Cake eating f5                          jogging
+Shaving 13                              brushing teeth
+Reading 4                               reading book
+Jogging f14                             jogging
+Flipping pancake 15                     flipping pancake
+Computer 9                              using computer
+Jogging f5                              flipping pancake
+Computer f11                            using computer
+Basketball f10                          playing basketball
+Flipping pancake f9                     flipping pancake
+Flipping pancake 16                     flipping pancake
+Push up f4                              push up
+Cake eating 2                           eating cake
+Jogging 6                               jogging
+Tennis f9                               playing tennis
+Shaving 9                               trimming or shaving beard
+Jogging 3                               jogging
+Flipping pancake 5                      flipping pancake
+Reading 8                               reading book
+Computer 11                             using computer
+Tooth brushing 14                       brushing teeth
+Shaving 3                               trimming or shaving beard
+Tooth brushing 5                        brushing teeth
+Computer f20                            reading book
+Cake eating 7                           reading book
+Computer f21                            reading book
+Flipping pancake 12                     flipping pancake
+Computer 8                              using computer
+Jogging 11                              jogging
+Basketball 9                            playing basketball
+Shaving 2                               trimming or shaving beard
+Shaving 11                              brushing teeth
+Tooth brushing f14                      jogging
+Push up 7                               push up
+Reading f14                             reading book
+Flipping pancake 3                      flipping pancake
+Cake eating 13                          eating cake
+Push up f7                              push up
+Cake eating 4                           eating cake
+Push up f5                              push up
+Flipping pancake f2                     flipping pancake
+Push up 13                              push up
+Jogging 18                              jogging
+Cake eating f4                          eating cake
+Push up 4                               push up
+Reading f19                             reading book
+Tennis f19                              playing tennis
+Cake eating 10                          eating cake
+Computer f2                             flipping pancake
+Jogging 12                              jogging
+Reading 1                               reading book
+Shaving 15                              brushing teeth
+Push up f1                              push up
+Reading f18                             reading book
+Computer f1                             reading book
+Tooth brushing f13                      reading book
+Push up f14                             push up
+Tooth brushing 1                        brushing teeth
+Shaving 10                              brushing teeth
+Basketball f5                           playing basketball
+Tennis f13                              playing tennis
+Jogging 17                              jogging
+Jogging 16                              jogging
+Tooth brushing 11                       brushing teeth
+Tooth brushing 15                       trimming or shaving beard
+Tennis f1                               playing tennis
+Flipping pancake f16                    flipping pancake
+Tennis 5                                playing tennis
+Shaving f14                             reading book
+Computer 5                              using computer
+Reading f8                              playing tennis
+Cake eating f12                         brushing teeth
+Tooth brushing 8                        brushing teeth
+Cake eating f2                          reading book
+Computer f12                            using computer
+Jogging f7                              using computer
+Reading f10                             trimming or shaving beard
+Push up f12                             push up
+Jogging 13                              jogging
+Reading f12                             jogging
+Shaving f6                              jogging
+Jogging 8                               jogging
+Basketball f14                          playing basketball
+Reading f7                              playing tennis
+Shaving f5                              reading book
+Computer f19                            flipping pancake
+Shaving f1(1)                           using computer
+Shaving 17                              trimming or shaving beard
+Cake eating 15                          eating cake
+Reading 7                               using computer
+Flipping pancake f4                     flipping pancake
+Tennis 14                               playing tennis
+Push up f8                              push up
+Push up f6                              push up
+Computer f5                             reading book
+Flipping pancake f11                    flipping pancake
+Flipping pancake 2                      flipping pancake
+Reading 12                              reading book
+Reading 6                               reading book
+Tennis f15                              playing tennis
+Jogging 1                               jogging
+Reading f15                             reading book
+Push up 11                              push up
+Reading f23                             reading book
+Basketball 6                            playing basketball
+Shaving f2                              brushing teeth
+Tennis f18                              playing tennis
+Jogging 10                              jogging
+Computer f16                            reading book
+Shaving f15                             brushing teeth
+Basketball f8                           playing basketball
+Tennis 10                               playing tennis
+Computer 10                             reading book
+Basketball f6                           playing basketball
+Shaving 12                              trimming or shaving beard
+Tooth brushing f1                       brushing teeth
+Jogging 9                               jogging
+Jogging 4                               jogging
+Jogging 7                               jogging
+Cake eating 6                           eating cake
+Tennis 1                                playing tennis
+Computer f14                            reading book
+Basketball 1                            playing basketball
+Reading 9                               reading book
+Tennis f7                               playing tennis
+Flipping pancake 8                      flipping pancake
+Flipping pancake f7                     flipping pancake
+Cake eating f14                         trimming or shaving beard
+Computer 6                              using computer
+Cake eating 9                           eating cake
+Jogging f15                             jogging
+Reading f21                             reading book
+Cake eating f10                         eating cake
+Basketball 13                           playing basketball
+Tennis f11                              reading book
+Basketball 15                           playing basketball
+Jogging f2                              playing basketball
+Basketball f11                          playing basketball
+Computer f6                             using computer
+Computer f3                             reading book
+Push up f13                             push up
+Computer 14                             reading book
+Basketball f13                          playing basketball
+Cake eating 18                          eating cake
+Shaving f16                             brushing teeth
+Cake eating f9                          eating cake
+Cake eating 16                          reading book
+Flipping pancake 6                      flipping pancake
+Tennis f2                               playing tennis
+Cake eating 5                           reading book
+Flipping pancake 10                     flipping pancake
+Tooth brushing 4                        trimming or shaving beard
+Shaving 7                               trimming or shaving beard
+Reading f20                             reading book
+Tennis 16                               playing tennis
+Tennis f17                              playing tennis
+Tennis f4                               playing tennis
+Computer 7                              using computer
+Computer 15                             using computer
+Push up f10                             push up
+Computer f10                            jogging
+Jogging f6                              jogging
+Tooth brushing f5                       brushing teeth
+Flipping pancake 13                     flipping pancake
+Reading 11                              using computer
+Computer f4                             reading book
+Tooth brushing f7                       reading book
+Tooth brushing 7                        brushing teeth
+Flipping pancake 9                      flipping pancake
+Cake eating f3                          reading book
+Cake eating f7                          brushing teeth
+Tooth brushing 2                        brushing teeth
+Tennis 11                               playing tennis
+Tooth brushing 13                       brushing teeth
+Flipping pancake f5                     flipping pancake
+Jogging f4                              jogging
+Flipping pancake f10                    jogging
+Tennis 9                                playing tennis
+Jogging f8                              jogging
+Jogging f3                              trimming or shaving beard
+Tennis 12                               playing tennis
+Tennis f6                               playing tennis
+Reading f25                             brushing teeth
+Shaving 4                               trimming or shaving beard
+Flipping pancake f18                    flipping pancake
+Reading f16                             reading book
+Flipping pancake 4                      flipping pancake
+Basketball f7                           playing basketball
+Basketball f12                          playing basketball
+Computer 4                              using computer
+Jogging 15                              jogging
+Jogging f17                             jogging
+Tooth brushing f11                      reading book
+Flipping pancake 11                     flipping pancake
+Push up f17                             push up
+Reading 13                              reading book
+Reading f5                              reading book
+Cake eating 3                           eating cake
+Tennis 16(1)                            playing tennis
+Push up 8                               push up
+Basketball 10                           playing basketball
+Shaving 1                               brushing teeth
+Tennis f14                              playing tennis
+Cake eating 11                          using computer
+Tooth brushing 6                        brushing teeth
+Computer f17                            playing tennis
+Jogging 2                               jogging
+Tennis 15                               playing tennis
+Push up 14                              push up
+Flipping pancake f12                    flipping pancake
+Jogging 19                              jogging
+Basketball f15                          playing basketball
+Tennis 8                                playing tennis
+Reading f9                              reading book
+Basketball 2                            playing basketball
+Tennis 4                                playing tennis
+Push up 6                               push up
+Flipping pancake f17                    reading book
+Tennis f16                              flipping pancake
+Push up f2                              push up
+Tennis 3                                playing tennis
+Shaving 16                              brushing teeth
+Tennis 7                                playing tennis
+Flipping pancake f3                     flipping pancake
+Push up f11                             push up
+Push up f18                             push up
